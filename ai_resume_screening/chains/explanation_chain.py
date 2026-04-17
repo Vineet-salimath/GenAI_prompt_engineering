@@ -3,7 +3,7 @@
 
 import json
 from langchain_groq import ChatGroq
-from prompts.explanation_prompt import explanation_prompt
+from ai_resume_screening.prompts.explanation_prompt import explanation_prompt
 
 
 def create_explanation_chain(api_key):

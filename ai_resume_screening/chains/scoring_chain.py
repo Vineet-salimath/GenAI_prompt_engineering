@@ -1,7 +1,7 @@
 
 import json
 from langchain_groq import ChatGroq
-from prompts.scoring_prompt import scoring_prompt
+from ai_resume_screening.prompts.scoring_prompt import scoring_prompt
 
 
 def create_scoring_chain(api_key):
