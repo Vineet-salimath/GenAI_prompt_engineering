@@ -1,8 +1,6 @@
 
 from langchain_core.prompts import PromptTemplate
 
-from langchain_core.prompts import PromptTemplate
-
 template = """You are an AI Resume Parser.
 
 Extract ONLY information explicitly present in the resume.
