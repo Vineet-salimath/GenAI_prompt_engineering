@@ -10,7 +10,7 @@ if sys.platform == 'win32':
     os.environ['PYTHONIOENCODING'] = 'utf-8'
     sys.stdout.reconfigure(encoding='utf-8')
 
-from main import run_screening_pipeline
+from ai_resume_screening.main import run_screening_pipeline
 
 load_dotenv()
 
@@ -18,12 +18,13 @@ load_dotenv()
 def main():
     """Run screening for all 3 candidate types"""
     
-    job_path = "data/job_description.txt"
+    base_dir = Path(__file__).resolve().parent
+    job_path = base_dir / "data" / "job_description.txt"
     
     candidates = [
-        {"name": "STRONG - John Alexander", "file": "data/resumes/sample_resume.txt"},
-        {"name": "AVERAGE - Sarah Johnson", "file": "data/resumes/average_resume.txt"},
-        {"name": "WEAK - Alex Kumar", "file": "data/resumes/weak_resume.txt"},
+        {"name": "STRONG - John Alexander", "file": base_dir / "data" / "resumes" / "sample_resume.txt"},
+        {"name": "AVERAGE - Sarah Johnson", "file": base_dir / "data" / "resumes" / "average_resume.txt"},
+        {"name": "WEAK - Alex Kumar", "file": base_dir / "data" / "resumes" / "weak_resume.txt"},
     ]
     
     all_results = []
@@ -55,7 +56,7 @@ def main():
                 print(f"ERROR: File not found: {candidate['file']}")
                 continue
             
-            results = run_screening_pipeline(candidate['file'], job_path)
+            results = run_screening_pipeline(str(candidate['file']), str(job_path))
             all_results.append({"candidate": candidate['name'], "results": results})
             print(f"\nStatus: COMPLETE")
             
