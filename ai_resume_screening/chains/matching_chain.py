@@ -1,6 +1,6 @@
 
 from langchain_groq import ChatGroq
-from prompts.matching_prompt import matching_prompt
+from ai_resume_screening.prompts.matching_prompt import matching_prompt
 import json
 
 
