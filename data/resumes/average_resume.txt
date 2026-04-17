@@ -1,0 +1,77 @@
+SARAH JOHNSON - SOFTWARE DEVELOPER
+Email: sarah.johnson@email.com | Phone: (555) 234-5678 | LinkedIn: linkedin.com/in/sarahjohnson
+GitHub: github.com/sarahjohnson | Location: Austin, TX
+
+PROFESSIONAL SUMMARY
+Mid-level Software Developer with 3.5 years of experience building web applications. Proficient in Python, JavaScript, and React. Familiar with backend development and cloud deployment. Looking to expand expertise in full-stack architecture and DevOps practices.
+
+CORE SKILLS
+Technical Skills:
+• Languages: Python, JavaScript, HTML5, CSS3
+• Frontend: React.js, CSS Grid, Flexbox
+• Backend: Python (basic), some Flask experience
+• Databases: PostgreSQL, basic understanding of MongoDB
+• Version Control: Git, GitHub
+• Tools: VS Code, Postman, npm
+• Cloud: Basic AWS (EC2) experience
+
+Soft Skills:
+• Problem-solving
+• Team collaboration
+• Communication
+• Quick learner
+
+PROFESSIONAL EXPERIENCE
+
+MID-LEVEL DEVELOPER | Web Solutions Inc. | Aug 2021 - Present
+Austin, TX (Remote)
+• Developed React components for multiple projects
+• Fixed bugs and implemented new features
+• Collaborated with team members on feature development
+• Used Git for version control
+• Technologies: JavaScript, React, CSS, PostgreSQL
+
+JUNIOR DEVELOPER | Digital Agency Co. | Jan 2021 - Jul 2021
+Austin, TX
+• Built front-end components using React
+• Assisted with basic API integration
+• Participated in code reviews
+• Technologies: JavaScript, React, HTML5, CSS3
+
+INTERN - FRONT-END DEVELOPMENT | StartUp XYZ | Jun 2020 - Dec 2020
+Austin, TX
+• Created responsive web pages using HTML/CSS/JavaScript
+• Learned React fundamentals
+• Fixed minor bugs and styling issues
+• Technologies: HTML5, CSS3, JavaScript, React basics
+
+EDUCATION
+
+Bachelor of Science in Information Technology
+University of Texas, Austin
+Graduated: May 2020 | GPA: 3.2/4.0
+
+PROJECTS
+
+Blog Platform (2022)
+• Built a blog platform using React and Flask
+• PostgreSQL database for storing posts
+• Basic user authentication
+• Published on AWS EC2
+
+Portfolio Website (2021)
+• Created personal portfolio using React
+• Responsive design with CSS Grid
+• Hosted on GitHub Pages
+
+To-Do Application (2020)
+• Built simple to-do app with React
+• Local storage for data persistence
+
+CERTIFICATIONS
+• JavaScript Basics (Codecademy) - 2020
+• React Fundamentals (Udemy) - 2021
+
+LANGUAGES
+• English (Native)
+• Spanish (Conversational)
