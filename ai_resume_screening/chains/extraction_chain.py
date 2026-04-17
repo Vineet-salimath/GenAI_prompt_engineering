@@ -1,5 +1,5 @@
 from langchain_groq import ChatGroq
-from prompts.extraction_prompt import extraction_prompt
+from ai_resume_screening.prompts.extraction_prompt import extraction_prompt
 import json
 
 

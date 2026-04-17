@@ -15,15 +15,16 @@ if sys.platform == 'win32':
     os.environ['PYTHONIOENCODING'] = 'utf-8'
     sys.stdout.reconfigure(encoding='utf-8')
 
-from chains.extraction_chain import create_extraction_chain, extract_skills
-from chains.matching_chain import create_matching_chain, match_skills
-from chains.scoring_chain import create_scoring_chain, score_candidate
-from chains.explanation_chain import create_explanation_chain, generate_explanation
+from ai_resume_screening.chains.extraction_chain import create_extraction_chain, extract_skills
+from ai_resume_screening.chains.matching_chain import create_matching_chain, match_skills
+from ai_resume_screening.chains.scoring_chain import create_scoring_chain, score_candidate
+from ai_resume_screening.chains.explanation_chain import create_explanation_chain, generate_explanation
 
 load_dotenv()
 
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 LANGCHAIN_API_KEY = os.getenv("LANGCHAIN_API_KEY")
+BASE_DIR = Path(__file__).resolve().parent
 
 
 def load_resume(file_path):
@@ -192,8 +193,8 @@ def run_screening_pipeline(resume_path, job_description_path):
 def main():
     """Entry point for single resume screening"""
     
-    resume_path = "data/resumes/sample_resume.txt"
-    job_description_path = "data/job_description.txt"
+    resume_path = BASE_DIR / "data" / "resumes" / "sample_resume.txt"
+    job_description_path = BASE_DIR / "data" / "job_description.txt"
     
     if not Path(resume_path).exists():
         print(f"Resume not found: {resume_path}")
@@ -204,7 +205,7 @@ def main():
         return
     
     try:
-        run_screening_pipeline(resume_path, job_description_path)
+        run_screening_pipeline(str(resume_path), str(job_description_path))
     except Exception as e:
         print(f"\nError: {e}")
         raise
