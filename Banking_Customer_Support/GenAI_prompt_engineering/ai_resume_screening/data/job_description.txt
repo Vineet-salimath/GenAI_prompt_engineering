@@ -1,0 +1,83 @@
+POSITION: Senior Software Engineer
+
+COMPANY: Tech Innovation Corp
+LOCATION: Remote
+
+JOB SUMMARY:
+We are seeking a talented Senior Software Engineer to join our growing team. The ideal candidate will have strong full-stack development experience, expertise in modern frameworks, and a passion for building scalable systems.
+
+REQUIRED QUALIFICATIONS:
+- 5+ years of professional software development experience
+- Strong proficiency in Python and JavaScript
+- Experience with React.js for frontend development
+- Node.js or Django backend development
+- Docker and containerization knowledge
+- Git version control expertise
+- Experience with RESTful API design
+- SQL and NoSQL database experience
+- Bachelor's degree in Computer Science or related field
+
+REQUIRED TECHNICAL SKILLS:
+Programming Languages:
+  • Python (3.8+)
+  • JavaScript/TypeScript
+  • HTML5/CSS3
+
+Frameworks & Libraries:
+  • React.js (Hooks, State Management)
+  • Django or FastAPI
+  • Node.js with Express
+  • Redux or Context API
+
+DevOps & Tools:
+  • Docker and Docker Compose
+  • CI/CD pipelines (GitHub Actions, Jenkins)
+  • Linux command line
+  • AWS or GCP experience
+  • Git and GitHub
+
+Databases:
+  • PostgreSQL
+  • MongoDB
+  • Redis
+
+PREFERRED QUALIFICATIONS:
+- Kubernetes orchestration experience
+- AWS certification (Solutions Architect or Developer)
+- Experience with microservices architecture
+- Machine Learning or AI integration experience
+- GraphQL experience
+- Testing (Jest, Pytest, Selenium)
+- Agile/Scrum methodology
+- Open source contributions
+
+SOFT SKILLS:
+- Excellent communication and collaboration
+- Problem-solving mindset
+- Attention to detail
+- Team player mentality
+- Strong analytical skills
+- Leadership capabilities
+- Time management and organization
+
+RESPONSIBILITIES:
+- Design and develop scalable web applications
+- Collaborate with cross-functional teams
+- Code review and mentoring
+- Participate in architecture decisions
+- Optimize application performance
+- Document technical solutions
+- Stay updated with technology trends
+
+COMPENSATION & BENEFITS:
+- Competitive salary: $120,000 - $160,000
+- Health insurance (medical, dental, vision)
+- 401(k) matching
+- Remote work flexibility
+- Professional development budget
+- Paid time off (25 days)
+- Stock options
+- Home office setup allowance
+
+EQUAL OPPORTUNITY:
+Tech Innovation Corp is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

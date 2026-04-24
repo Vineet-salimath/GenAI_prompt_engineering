@@ -1,0 +1,71 @@
+ALEX KUMAR - JUNIOR WEB DEVELOPER
+Email: alex.kumar@email.com | Phone: (555) 345-6789 | LinkedIn: linkedin.com/in/alexkumar
+GitHub: github.com/alexkumar | Location: Chicago, IL
+
+PROFESSIONAL SUMMARY
+Recent graduate and aspiring web developer with foundational knowledge of HTML, CSS, and JavaScript. Completed online bootcamp and built several projects to strengthen coding skills. Eager to learn and grow in a professional development environment. Seeking first full-time position to expand expertise.
+
+TECHNICAL SKILLS
+• Languages: HTML5, CSS3, JavaScript (basics)
+• Frontend: HTML, CSS, basic jQuery
+• Databases: Some SQL knowledge
+• Tools: Visual Studio Code, GitHub (basic)
+• Version Control: Git basics
+• Operating Systems: Windows, Mac
+
+EDUCATION
+
+Web Development Bootcamp
+Online Coding Academy | Completed: June 2023 | 12-week intensive program
+• Learned HTML, CSS, JavaScript
+• Built 3 projects from scratch
+• Focused on responsive design
+
+High School Diploma
+Central High School | Graduated: 2022
+
+PROJECTS
+
+Weather Application (2023)
+• Built weather app using HTML, CSS, JavaScript
+• Fetches data from public API
+• Deployed on GitHub Pages
+
+Personal Portfolio (2023)
+• Created portfolio website with HTML/CSS
+• Responsive design
+• Shows coding projects
+
+Simple Calculator (2023)
+• Built calculator app using JavaScript
+• Basic HTML/CSS interface
+• Functions for basic math operations
+
+WORK EXPERIENCE
+
+PART-TIME HELP DESK SUPPORT | Tech Support Company | Mar 2023 - Present
+Chicago, IL
+• Provide basic technical support to customers
+• Troubleshoot common software issues
+• Document support tickets
+• Learning about professional IT environment
+
+FREELANCE PROJECTS | Self-employed | 2023 - Present
+• Created simple websites for small businesses
+• Used HTML, CSS, JavaScript
+• 2 completed projects with satisfied clients
+
+INTERNSHIP - TECH SUPPORT | Local IT Company | Jan 2023 - Feb 2023
+Chicago, IL
+• Shadowed support technicians
+• Learned troubleshooting basics
+• Supported team with basic tasks
+
+LANGUAGES
+• English (Native)
+• Hindi (Fluent)
+
+ADDITIONAL INFORMATION
+• Currently learning React through online resources
+• Interested in full-stack development
+• Open to relocation or remote work
